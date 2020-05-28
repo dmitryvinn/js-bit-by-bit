@@ -1,0 +1,11 @@
+{
+  "name": "js-tips-posts",
+  "version": "1.0.0",
+  "description": "JS Tips for posts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry Vinnik",
+  "license": "MIT"
+}
